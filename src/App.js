@@ -1,10 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Hello, { HelloPerson } from "./Hello";
-import { Header } from "./Header";
-import { Helloo } from "./Helloo";
-import Car from "./Car";
-import Login from "./Login";
+import Hello, { HelloPerson } from "./components/Hello";
+import { Header } from "./components/Header";
+import { Helloo } from "./components/Helloo";
+import Car from "./components/Car";
+import Login from "./components/Login";
 
 function App() {
   return (
